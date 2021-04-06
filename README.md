@@ -1,3 +1,3 @@
-# web-one
+# Cat-one
 
-Hi all!
+My tiny site about cats
