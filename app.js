@@ -1,7 +1,11 @@
 
 var pics = [
-    "imgs/_111434467_gettyimages-1143489763.jpg",
-    "imgs/7679913822_e0f3798100_n.jpg",
+    "imgs/1.jpg",
+    "imgs/2.jpg",
+    "imgs/3.jpg",
+    "imgs/4.jpg",
+    "imgs/5.jpg",
+    "imgs/6.jpg",
     "imgs/american-curl.jpg",
 ];
 
