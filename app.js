@@ -2,10 +2,10 @@
 var pics = [
     "imgs/1.jpg",
     "imgs/2.jpg",
-    "imgs/3.jpg",
-    "imgs/4.jpg",
-    "imgs/5.jpg",
-    "imgs/6.jpg",
+    "imgs/3.JPG",
+    "imgs/4.JPG",
+    "imgs/5.JPG",
+    "imgs/6.JPG",
     "imgs/american-curl.jpg",
 ];
 
